@@ -53,7 +53,7 @@
 
 ## 🚀 Projects & Hands-on Labs
 
-### 01. Metasploitable 2 — Vulnerability Assessment
+### 01. Maincraft Intership
 **Focus:** Vulnerability discovery and security reporting
 
 - Performed lab-based vulnerability assessment.
