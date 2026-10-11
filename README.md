@@ -64,30 +64,6 @@
 
 [View Repository](YOUR_VULNERABILITY_PROJECT_URL)
 
-### 02. Network Traffic Analysis
-**Focus:** Packet analysis and network troubleshooting
-
-- Practiced inspecting network packets and protocols.
-- Explored TCP/IP, DNS, HTTP and ICMP traffic.
-- Used packet captures to understand network behaviour.
-
-**Tools:** Wireshark, tcpdump
-
-[View Repository](YOUR_NETWORK_ANALYSIS_URL)
-
-### 03. Python Security Log Analysis
-**Focus:** Security automation and suspicious activity detection
-
-- Practice parsing logs and extracting relevant information.
-- Explore regular expressions and IP address extraction.
-- Build scripts to identify suspicious events.
-
-**Tools:** Python, Regular Expressions, Log Analysis
-
-[View Repository](YOUR_PYTHON_SECURITY_URL)
-
-> Replace these project links with your actual repositories. Only describe tasks you have performed, and label coursework or simulated investigations as labs.
-
 ---
 
 ## 📜 Learning & Certifications
